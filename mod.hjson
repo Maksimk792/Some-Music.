@@ -1,0 +1,8 @@
+name: "Some Music"
+displayName: "Some Music"
+description: "Adds some OST from Infinitode 2 and Portal Stories: Mel"
+author: "Maksim"
+minGameVersion: "140"
+version: "1.0"
+hideBrowser: false
+hidden: true
